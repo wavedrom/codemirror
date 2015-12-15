@@ -1,6 +1,6 @@
 # codemirror-wavedrom
 
-CodeMirror addon for WaveDrom
+CodeMirror mode for WaveDrom
 
 Provide the following functionality:
   * highlight WaveJSON code as JS code.
